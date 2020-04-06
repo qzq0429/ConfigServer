@@ -1,0 +1,11 @@
+#  profiles:
+#    active:
+#    - native
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.1.1:8848
+myPropert: ENC(8BjdaFlUZsAoUXFNwHNNjXEifE1VtuQo)
+
+
